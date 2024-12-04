@@ -46,4 +46,4 @@
 ## 🌐 Контакты
 
 - Email: selivrstov91@internet.ru
-- Telegram: [@your_telegram_username](https://t.me/SelDaniil)
+- Telegram: [@SelDaniil]
